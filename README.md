@@ -88,13 +88,6 @@ I'm a passionate and creative software developer currently pursuing a double deg
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dlal2-ua/dlal2-ua/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dlal2-ua/dlal2-ua/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dlal2-ua/dlal2-ua/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
