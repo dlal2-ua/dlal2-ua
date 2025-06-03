@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dlal2-ua.dlal2-ua&left_color=yellow&right_color=darkorchid"  />
 </div>
 
 ###
